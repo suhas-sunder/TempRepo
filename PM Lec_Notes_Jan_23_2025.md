@@ -107,7 +107,8 @@
 - Cost estimates need to have a range on them.
 	- Otherwise it's a guess.
 **Gated Release Approach**
-![[Pasted image 20250123150005.png]]
+<img width="488" alt="image" src="https://github.com/user-attachments/assets/57714cbe-9eef-4db9-a4b0-2d952316b21e" />
+
 - For big projects that cost a lot of money, and you don't know all the details at the beginning.
 	- Let's not take it all in one chunk.
 	- Can't give credible estimate when we have so many unknowns.
@@ -155,8 +156,52 @@
 ### A way to think about the project 'Front End'
 - Get problem clear, requirements clear, scope clear, initial plans clear (they will evolve)
 
-### Project Charter
+Project Charter
 - Document that sets the stage for the project.
 - What's the purpose?
 - What's the requirements?
-- 
+- I asked prof if we need to commit to the budget in the charter phase.
+	- We don't have to commit to a budget in the charter, especially if we're not certain about the requirements. 
+	- If we are mentioning any budget, we better be certain about how we got there.
+
+### Prof quickly went through part b of lecture slides. Here is the summary:
+- The only thing a PM is an expert at is project management.
+- PM's should be consulting and contracting experts for a specific role, but shouldn't be doing that work yourself.
+- As a project manager you have to adapt to who has more authority in the project.
+	- Eg. someone who is an expert in a chemistry project should probably have more say in a related project when making decisions.
+	- All of this should be included in the stakeholder plan.
+- Project is dead if you haven't managed the right stakeholder, and they have authority.
+	- Varies company to company.
+- Leadership is show me the goal or show me the way.
+	- Long term goal
+	- Vision
+- Management is let's manage the work.
+	- Structuring a plan
+- Project managers need to find a good balance between the two, but the emphasis goes a bit more towards management.
+- **Transformational** leadership style
+	- Throw out the old way, because we have a new and improved way of doing things.
+		- eg. using AI powered tools
+
+### Blanchard's Model of leadership styles
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/f40c4db7-2e24-4e1b-b128-777abc50f002" />
+
+- Four categories of leadership styles
+- **Directing**
+	- I'm your leader and i'm telling you waht to do
+	-  Typically when someone is very junior they are directed first.
+		- They don't have the experience to know what to do yet. 
+		- May not be ready to be coached.
+	- Don't get most out of people by directing so it's not ideal for those with knowledge, but more so for those who have practically no experience.
+- **Coaching**
+	- I'm not going to tell you waht to do. I have knowlege. I'll let you do the task and I'll coach you.
+	- eg. I can bring some experience and knowledge to help you improve your skills.
+- **Supporting**
+	- If you have a problem, tell me and I'll help you with the problem.
+	- eg. I may not be experienced in your field, but if you need a certain $ amount to get work done, let me know and I'll get it for you.
+- **Delegating**
+	- People delegating to need to know what they're doing.
+### Usually goes from
+- Directing > Coaching > Supporting > Delegating
+- You gotta know your people.
+
+
