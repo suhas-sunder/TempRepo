@@ -1,5 +1,5 @@
 ### Importance of PM & Delivering On TIme
-- First speaker: 
+- First speaker (Panel host asking questions): 
 	- Director of external relationships & something
 	- Allissa I think was her first name
 - Talk is about major nuclear projects that were on time and on budget
