@@ -1,7 +1,7 @@
 ### Importance of PM & Delivering On TIme
 - First speaker (Panel host asking questions): 
 	- Director of external relationships & something
-	- Allissa I think was her first name
+	- Moderated by Jennifer Alsop
 - Talk is about major nuclear projects that were on time and on budget
 	- Setting a new model for success internationally
 - Major infrastructure project
@@ -12,14 +12,14 @@
 	- We have a growing energy demand.
 	- Electricity demand in Ontario is anticipated to grow 75% by 2050.
 
-### First Panelist - Parad Ledref?
+### First Panelist - Perrik Le Dreff, VP of Major Projects at Ontario Power Generation
 - OPG
 - Worked 10 years in Nuclear Engineering.
 - Gradually started working on PM work without knowing it was PM work.
 - Spent 10 years in Darlington refurbishment work in various roles, eventually become a director.
 	- Most recently moved into VP role overlooking all sorts of nuclear waste type projects.
 - 
-### Second Panelist - Tasia Preedie
+### Second Panelist - Tasfia Preeti, P.Eng, PMP, Deputy Project Director at Aecon Group Inc. 
 - Deputy project director at Aecon at Darlington
 - Was good at STEM and health sciences but never thought she'd be in Engineering
 - Spent 5 years doing engineering and management
@@ -40,7 +40,7 @@
 	- Being a project manager requires a lot of softer skills
 		- This includes other programs outside of Engineering
 - 
-### Third Panelist - Iman Khan?
+### Third Panelist - Aiman Khan, MBA, Senior Manager at Bruce Power
 - Started at Ontario Tech in Automotive
 	- When automotive was going through a downturn.
 		- Lot of jobs left Ontario and went to China/Mexico etc.
